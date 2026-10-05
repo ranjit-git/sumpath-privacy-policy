@@ -10,7 +10,7 @@ We are committed to protecting your privacy and ensuring you have a positive exp
 
 ## 1. Information We Collect
 
-SumPath is designed to respect your privacy. **We do not require you to create an account, nor do we ask for or collect personal information such as your name, email address, phone number, or physical address.**
+SumPath: Math puzzle Game is designed to respect your privacy. **We do not require you to create an account, nor do we ask for or collect personal information such as your name, email address, phone number, or physical address.**
 
 However, to provide, support, and improve the App, we use third-party services that may automatically collect certain information.
 
