@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** October 5, 2026
+**Effective Date:** October 6, 2026
 
 This Privacy Policy describes how we ("the Developer", "we", "us", or "our") collect, use, and share information in connection with your use of our mobile application **SumPath: Math Puzzle Game** (the "App").
 
